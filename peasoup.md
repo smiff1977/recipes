@@ -6,3 +6,4 @@
 - Salt and pepper 
 - veg stock
 # Instructions
+- put peas into pan
