@@ -1,6 +1,6 @@
 #ingredients
 - onions
 - garlic
-- mushrooms
+- button mushrooms
 
 #instructions
